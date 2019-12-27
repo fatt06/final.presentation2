@@ -1,0 +1,27 @@
+.title1{font-family: Verdana, Geneva, Tahoma, sans-serif}
+
+
+
+
+  nav a {text-decoration: none; 
+    color: white ;
+    margin-left: 15px;
+}
+
+nav { margin-left: 670px;
+    font-size: 25px;
+    margin-top: -20px;
+    padding-bottom: 10px;
+    
+    
+}
+
+header{ background-color: #a9a9a9;} 
+
+.blocMK img { padding-left: 55px}
+
+span {font-size: 35px; 
+padding-left: 250px}
+
+.blocAd{text-align: center; background-color: #c5aec0;}
+.blocAd h6{ padding-bottom: 20px}
